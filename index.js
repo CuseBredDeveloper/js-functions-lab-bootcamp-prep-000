@@ -1,4 +1,5 @@
 // write your code below!
-function happyHolidays(string) {
-  return string ("Happy holidays!")
+functions happyHolidays(string) {
+  return toEqual("Happy holidays!")
+
 }
