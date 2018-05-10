@@ -1,5 +1,4 @@
 // write your code below!
-functions happyHolidays(string) {
+function happyHolidays(string) {
   return string("Happy holidays!")
-
 }
